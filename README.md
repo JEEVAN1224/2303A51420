@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**2303a51420/2303A51420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeevan/jeevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
